@@ -21,3 +21,7 @@ COVER :
 ![mobile (23)](https://github.com/nurhamsah1998/free-portfolio/assets/95860539/2af9403f-2c3b-419e-adb6-38f651e0df21)
 
 ![mobile (24)](https://github.com/nurhamsah1998/free-portfolio/assets/95860539/f3ed309c-02f3-4103-ba8c-b8773943abf4)
+
+
+Thanks to Mobile simulator - responsive testing tool for providing such a great screenshot mockup :
+https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk
