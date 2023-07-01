@@ -3,7 +3,7 @@ This is a free repository for portfolio websites
 
 This project using React Vite Typescript
 
-you can use the portfolio for free. don't forget to give star in this repository.
+you can use the portfolio for free. if useful you can help me by giving stars in this repo.
 
 
 COVER : 
